@@ -1,4 +1,4 @@
-# RedMine
+# RedMine (Photoshop Alternative)
 Best Photo Editor (PhotoShop Alertnative) developed in Javascript &amp; electron.
 
 ##Looking for developers
