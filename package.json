@@ -1,0 +1,24 @@
+{
+    "name": "RedMine",
+    "version": "1.0.0",
+    "description": "A minimal photoshop application for quick starter",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "repository": "https://github.com/post2seth/RedMine",
+    "keywords": [
+        "photoshop",
+        "alternative",
+        "Opensource"
+    ],
+    "dependencies": {
+        "cropperjs": "^0.5.5",
+        "font-awesome": "^4.5.0"
+    },
+    "author": "Seth",
+    "license": "MIT",
+    "devDependencies": {
+        "electron": "^1.4.1"
+    }
+}
